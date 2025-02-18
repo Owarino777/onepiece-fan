@@ -68,25 +68,27 @@ npm run build
 ```
 
 ## 📁 Structure du Projet
+```
 one-piece-card-game/
 ├── src/
-│ ├── app/
-│ │ ├── components/
-│ │ │ ├── Card.tsx
-│ │ │ ├── CardModal.tsx
-│ │ │ ├── DeckBuilder.tsx
-│ │ │ ├── Statistics.tsx
-│ │ │ └── ...
-│ │ ├── layout.tsx
-│ │ └── page.tsx
-│ ├── data/
-│ │ └── sample-cards.ts
-│ ├── types/
-│ │ └── index.ts
-│ └── constants/
-│ └── colors.ts
+│   ├── app/
+│   │   ├── components/
+│   │   │   ├── Card.tsx
+│   │   │   ├── CardModal.tsx
+│   │   │   ├── DeckBuilder.tsx
+│   │   │   ├── Statistics.tsx
+│   │   │   └── ...
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── data/
+│   │   └── sample-cards.ts
+│   ├── types/
+│   │   └── index.ts
+│   └── constants/
+│       └── colors.ts
 └── public/
-└── cards/
+    └── cards/
+```
 
 ## 🎮 Utilisation
 
